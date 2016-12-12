@@ -1,0 +1,8 @@
+{
+  "name": "eventide",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "animate.css": "^3.5.2",
+    "normalize-css": "normalize.css#^5.0.0"
+  }
+}
